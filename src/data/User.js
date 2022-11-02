@@ -167,6 +167,16 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
+    "Fahad-Ayushi": {
+    name: "Fayushi",
+    branch: "IT",
+    description: "Fahad | Ayushi",
+    links: {
+      github: "https://github.com/fahad2310",
+      instagram: "https://www.instagram.com/ayushiuttamani/?hl=en",
+      linkedin: "https://www.linkedin.com/in/fahad-siddiqui-79382422a/",
+      portfolio: "",
+    },
   },
 };
 export default Users;
